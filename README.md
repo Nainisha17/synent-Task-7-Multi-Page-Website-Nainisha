@@ -5,6 +5,10 @@
 
 A modern and elegant multi-page website developed using HTML, CSS, and JavaScript. The project demonstrates responsive web design principles with multiple navigation pages and a professional user interface.
 
+# Project Link
+
+https://nainisha17.github.io/synent-Task-7-Multi-Page-Website-Nainisha/index.html
+
 ## Features
 
 - Responsive Navigation Bar
